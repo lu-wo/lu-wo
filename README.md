@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lukas Wolf. I'm Co-founder of Sonia, an AI mental health therapist
+- 👋 Hi, I’m Lukas Wolf. I'm Co-founder of [Sonia, an AI mental health therapist](https://www.soniahealth.com/)
 - 🔬 Here on GitHub you find mostly work from my [research in Machine Learning at MIT and ETH](https://scholar.google.com/citations?user=_FvMBFIAAAAJ&hl=en).
 - 👀 I’m interested in Artificial Intelligence applications (Psychology, Cognitive Science and Language). 
 - 🌱 I’m  working with Hydra, PyTorch, PyTorch Lightning, and other Python/ML frameworks. 
