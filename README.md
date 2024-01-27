@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Lukas Wolf, a Computer Science MSc student at ETH Zurich.
-- 👀 I’m interested in Machine Learning and it's applications (Cognitive Science and Language). 
-- 🌱 I’m currently working with Hydra, PyTorch and PyTorch Lightning and other Python/ML frameworks. 
-- 💞️ I’m looking for collaborations on interdisciplinary Machine Learning projects. 
-- 📄 For more details on my past research, visit my [google scholar profile](https://scholar.google.com/citations?user=_FvMBFIAAAAJ&hl=en)
-- 📫 How to reach me: wolflu-youknowwhatcomes-ethz.ch
+- 👋 Hi, I’m Lukas Wolf. I'm Co-founder of Sonia, an AI mental health therapist
+- 🔬 Here on GitHub you find mostly work from my [research in Machine Learning at MIT and ETH](https://scholar.google.com/citations?user=_FvMBFIAAAAJ&hl=en).
+- 👀 I’m interested in Artificial Intelligence applications (Psychology, Cognitive Science and Language). 
+- 🌱 I’m  working with Hydra, PyTorch, PyTorch Lightning, and other Python/ML frameworks. 
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lukas-wo/) and [X](https://twitter.com/lukaswolf_)
 
 <!---
 lu-wo/lu-wo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
